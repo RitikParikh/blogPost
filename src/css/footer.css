@@ -1,0 +1,43 @@
+.pb-16 {
+    padding-bottom: 12rem !important;
+}
+
+.pb-48 {
+    padding-top: 12rem !important;
+}
+
+.dark\:border-gray-600 {
+    border-color: #4b4c53 !important;
+}
+
+.border-gray-600 {
+    border-color: #e6e9ee !important;
+}
+
+.reletive{
+    position: relative;
+}
+
+.mx-10vw {
+    margin-left: 10vw;
+    margin-right: 10vw;
+}
+
+.mx-auto {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.a .dark{
+    color : #A9ADC1;
+}
+
+.a .light{
+    color : #535661;
+}
+
+.grid{
+    display:grid;
+    grid-template-rows: max-content;
+    grid-template-columns: repeat(4,minmax(0,1fr));
+}
